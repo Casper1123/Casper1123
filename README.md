@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Casper1123
-- 👀 I’m interested in... hahahaha :).. anyways.
-- 🌱 I’m currently learning whatever, mostly just screwing around in PY
-- 💞️ I’m looking to collaborate on : :kekw: Just make it fun and interesting and I'll do it
+- 👋 Hi, I’m Casper
+- 👀 I’m interested in whatever I feel like.
+- 🌱 I’m currently learning. As always.
 - 📫 How to reach me: Discord, preferably. Casper1123
 
 <!---
